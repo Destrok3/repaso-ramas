@@ -22,4 +22,9 @@ git add . <agrega todos los archivos que tengo>
 2. hago el comit
 
 git commit -m <mensaje descriptivo>
-a
+
+
+# listado de commit del repo
+
+
+git log --oneline
