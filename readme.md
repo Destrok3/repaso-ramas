@@ -1,3 +1,3 @@
 # Clase 06
 
-## Repaso git
+## Repaso git a
